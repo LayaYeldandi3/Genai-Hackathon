@@ -1,7 +1,6 @@
 import streamlit as st
 import time
 import pandas as pd
-#import plotly.express as px
 from streamlit_lottie import st_lottie
 import google.generativeai as genai
 from PIL import Image
